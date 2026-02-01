@@ -30,7 +30,8 @@ Python scripts in the `analysis/` folder summarize:
 
 ## Notes
 - This project is for **defensive security learning only**
-- The honeypot is isolated and does not contain real data
+- The honeypot is isolated and does not contain real data but was used to collect real data
+- CSV logs not included to big to upload 
 
 
 ## Tools Used
